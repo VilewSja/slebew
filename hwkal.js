@@ -33,7 +33,7 @@ global.packname = 'HW MODS WA'
 global.ownerr = ['HW MODS WA']
 global.author = 'HW MODS WA'
 global.sessionName = './sessionye/haikal'
-global.prefa = ['','!','.',',','🐤','🗿']
+global.prefa = [','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
