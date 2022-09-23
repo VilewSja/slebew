@@ -22,16 +22,16 @@ global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Levi' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'VilewBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'VilewBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312']
-global.premium = ['6281214281312']
-global.packname = 'HW MODS WA'
-global.ownerr = ['HW MODS WA']
-global.author = 'HW MODS WA'
+global.owner = ['6281255090574']
+global.premium = ['6281255090574']
+global.packname = 'LeviAja'
+global.ownerr = ['Levi']
+global.author = 'Bylevi'
 global.sessionName = './sessionye/haikal'
 global.prefa = [','!','.',',','🐤','🗿']
 global.sp = '⭔'
@@ -70,11 +70,11 @@ global.limitawal = {
    potionawal: 1
 }
 //=================================================//
-global.thumb = fs.readFileSync("./baseikal/image/hw.jpg")
-global.visoka = fs.readFileSync("./baseikal/video/hikal.gif")
-global.log0 = fs.readFileSync("./baseikal/image/haikal.jpg")
-global.menuimg = 'https://k.top4top.io/p_2388xws321.jpg'
-global.ggikal = fs.readFileSync("./baseikal/video/haikal.mp4")
+global.thumb = fs.readFileSync("./baseikal/image/vilew.jpg")
+global.visoka = fs.readFileSync("./baseikal/image/vilew.jpg")
+global.log0 = fs.readFileSync("./baseikal/image/vilew.jpg")
+global.menuimg = 'https://telegra.ph/file/507a2d2d17b3b68d644b5.jpg'
+global.ggikal = fs.readFileSync("./baseikal/image/vilew.jpg")
 //=================================================//
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
