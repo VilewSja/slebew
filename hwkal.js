@@ -28,12 +28,12 @@ global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['6281255090574']
-global.premium = ['6281214281312']
-global.packname = 'HW MODS WA'
-global.ownerr = ['HW MODS WA']
-global.author = 'HW MODS WA'
+global.premium = ['6281255090574']
+global.packname = 'ViYaa'
+global.ownerr = ['Levi']
+global.author = 'ByLevi'
 global.sessionName = 'session'
-global.prefa = ['','!','.',',','🐤','🗿']
+global.prefa = [','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
